@@ -16,4 +16,17 @@ An end to end messaging system like WhatsApp with the below functional-ities:
 - If one user sends a message to a group it should be sent to all members of that group.
 - The message is encrypted using Tripple DES (3DES) and the key will be Diffie–Hellman key typeexchanged between clients.
 - Each group has one key (random nonce).
-- Message can be any type, for example, text, images, video, and audio.
+- **Message can be any type, for example, text, images, video, and audio.**
+
+## Commands Implemented
+    1. create_account
+    2. login
+    3. create_group
+    4. list_groups
+    5. join_groups
+    6. Peer to peer(p2p) text messaging
+    7. group messaging
+    8. p2p file sharing
+    9. group file sharing
+
+- The message is encrypted using **Tripple DES (3DES)** and the key exchange algorithm used between clients is **Diffie–Hellman**. Each group has one key (random nonce).
