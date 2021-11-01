@@ -1,4 +1,4 @@
-# An end to end messaging system like WhatsApp
+# An end to end encrypted messaging system
 
 ## How to run
 
@@ -16,7 +16,7 @@
 - Each user can join a group [JOIN command]. If the group does not exist then the first create it thenjoins it.
 - Each user can create a group [CREATE command].
 - If one user sends a message to a group it should be sent to all members of that group.
-- The message is encrypted using **Tripple DES (3DES)** and the key exchange algorithm used between clients is **Diffie–Hellman**. Each group has one key (random nonce).
+- The message is encrypted using **Tripple DES (3DES)** which is a Symmetric Encryption Technique and the secret key exchange algorithm used between the users is **Diffie–Hellman**.
 - Each group has one key (random nonce).
 - **Message can be any type, for example, text, images, video, and audio.**
 
