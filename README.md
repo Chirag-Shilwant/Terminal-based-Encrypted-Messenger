@@ -1,5 +1,8 @@
 # End-to-End-Encrypted-Messenger
 
+- A Terminal based End to End Encrypted messaging system.
+
+
 ## How to run
 
     pip3 install pycryptodome
