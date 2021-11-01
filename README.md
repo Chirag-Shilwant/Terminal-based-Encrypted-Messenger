@@ -1,6 +1,9 @@
 # Terminal based Encrypted Messenger
 
-- A Terminal based Encrypted Messenger. 
+- Multiclient chat application that has 1 server component and atleast 4 clients.
+  
+     ![image](https://user-images.githubusercontent.com/48115585/139683315-34b8fa01-5857-4831-995a-1f3ac20e525a.png)
+
 - To ensure secure communication the messages are encrypted using **Triple DES(3DES)** which is a Symmetric Encryption technique and the secret key used for encryption will be exchanged between the users using **Diffie–Hellman key exchange algorithm**.
 
 ## How to run
