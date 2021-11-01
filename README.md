@@ -1,5 +1,8 @@
 # Terminal based Encrypted Messenger
 
+- A Terminal based Encrypted Messenger. 
+- To ensure secure communication the messages are encrypted using **Triple DES(3DES)** which is a Symmetric Encryption technique and the secret key used for encryption will be exchanged between the users using **Diffie–Hellman key exchange algorithm**.
+
 ## How to run
 
     pip3 install pycryptodome
