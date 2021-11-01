@@ -1,4 +1,4 @@
-# An end to end encrypted messaging system
+# End-to-End-Encrypted-Messenger
 
 ## How to run
 
