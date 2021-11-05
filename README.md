@@ -32,7 +32,7 @@
     3. create_group
     4. list_groups
     5. join_groups
-    6. Peer to peer(p2p) text messaging
+    6. text messaging to other clients within network
     7. group messaging
     8. p2p file sharing
     9. group file sharing
